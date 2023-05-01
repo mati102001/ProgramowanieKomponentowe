@@ -1,0 +1,4 @@
+--patch-module
+pl.first.sudoku=_
+--add-reads
+pl.first.sudoku=ALL-UNNAMED

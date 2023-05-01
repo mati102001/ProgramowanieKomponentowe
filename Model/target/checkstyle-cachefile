@@ -1,0 +1,25 @@
+#Mon May 01 15:05:34 CEST 2023
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\Difficulty.java=1642334490274
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\Language_pl.java=1643579908903
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\DataBaseException.java=1642382695666
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\LoadFileException.java=1642334490954
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuBoard.java=1643579908793
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\FileSudokuBoardDao.java=1642334490286
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\BacktrackingSudokuSolver.java=1642334490167
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\BadFieldvalueException.java=1642334490506
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuColumn.java=1642383053380
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\DaoExceptions.java=1642383895986
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\CompareNullException.java=1642334490797
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\WriteToFileException.java=1642334491006
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\Language_en.java=1643579908896
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuBox.java=1642383060878
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuSolver.java=1642334490452
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuFieldValueChangeListener.java=1642334490398
+configuration*?=A38D4AFE72620627C727B900C6F7A8E7ADEF1A79
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\LackOfMethodException.java=1642382697415
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuRow.java=1642383293753
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\BadGroupSizeException.java=1642334490583
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\Dao.java=1642362665008
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\SudokuBoardDaoFactory.java=1643558374660
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\CantCloseException.java=1642362665014
+D\:\\Kompo\\ProgramowanieKomponentowe\\Model\\src\\main\\java\\pl\\first\\sudoku\\exceptions\\CantCloneException.java=1642334490686

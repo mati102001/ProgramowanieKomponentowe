@@ -1,0 +1,12 @@
+pl\first\sudoku\DiffucltTest.class
+pl\first\sudoku\FileSudokuBoardDaoTest.class
+pl\first\sudoku\SudokuBoardTest.class
+pl\first\sudoku\JdbcSudokuBoardDaoTest.class
+pl\first\sudoku\SudokuFieldGroupTest.class
+pl\first\sudoku\SudokuColumnTest.class
+pl\first\sudoku\SudokuBoxTest.class
+pl\first\sudoku\BacktrackingSudokuSolverTest.class
+pl\first\sudoku\SudokuFieldTest.class
+pl\first\sudoku\LanguageTest.class
+pl\first\sudoku\SudokuRowTest.class
+pl\first\sudoku\SudokuBoardDaoFactoryTest.class

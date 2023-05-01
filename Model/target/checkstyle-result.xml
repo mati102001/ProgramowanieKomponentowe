@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.36">
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\BacktrackingSudokuSolver.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\Dao.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\Difficulty.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\BadFieldvalueException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\BadGroupSizeException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\CantCloneException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\CantCloseException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\CompareNullException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\DaoExceptions.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\DataBaseException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\LackOfMethodException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\LoadFileException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\exceptions\WriteToFileException.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\FileSudokuBoardDao.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\JdbcSudokuBoardDao.java">
+<error line="172" column="23" severity="error" message="Local variable name &apos;sName&apos; must match pattern &apos;^[a-z]([a-z0-9][a-zA-Z0-9]*)?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\Language_en.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\Language_pl.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuBoard.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuBoardDaoFactory.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuBox.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuColumn.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuField.java">
+<error line="55" column="17" severity="error" message="WhitespaceAround: &apos;if&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuFieldGroup.java">
+<error line="9" column="1" severity="error" message="Extra separation in import group before &apos;com.google.common.base.Objects&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" column="1" severity="error" message="Wrong lexicographical order for &apos;com.google.common.base.Objects&apos; import. Should be before &apos;java.util.ResourceBundle&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuFieldValueChangeListener.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuRow.java">
+</file>
+<file name="D:\Kompo\ProgramowanieKomponentowe\Model\src\main\java\pl\first\sudoku\SudokuSolver.java">
+</file>
+</checkstyle>
